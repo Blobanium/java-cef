@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - '5845'
   workflow_dispatch:
 
 jobs:
